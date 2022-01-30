@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning 🙂
 - 📫 How to reach me: law.pran99@gmail.com
-- ⚡ Fun fact: I like to draw.
+- ⚡ Fun fact: I like to draw. Check it out: <a href="https://www.instagram.com/its_pranay_arts/" target="_blank">here</a>
 
 ### Languages and Tools
 <p>
