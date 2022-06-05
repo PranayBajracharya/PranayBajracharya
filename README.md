@@ -1,4 +1,4 @@
-### <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="30px" height="30px"> Hi, I am Pranay Bajracharya
+### <h1><img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40px" height="40px"> Hi, I am Pranay Bajracharya</h1>
 
 ## I am a Student!
 
@@ -33,7 +33,7 @@
 </p>
 
 ### GitHub Analytics
-<p align="center">
+<p>
   <a href="https://github.com/PranayBajracharya">
     <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PranayBajracharya&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PranayBajracharya&layout=compact&langs_count=8&theme=radical&hide=jupyter%20notebook"/>
