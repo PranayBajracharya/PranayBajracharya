@@ -1,4 +1,4 @@
-### <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="30px"> Hi, I am Pranay Bajracharya
+### <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="30px" height="30px"> Hi, I am Pranay Bajracharya
 
 ## I am a Student!
 
