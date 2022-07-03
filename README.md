@@ -14,13 +14,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40" /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
 <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /> 
+<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40" /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="40" height="40" />
   <img src="https://img.icons8.com/color/50/000000/adobe-photoshop.png" alt="PhotoShop" width="40" height="40" />
 </p>
@@ -36,7 +38,7 @@
 <p>
   <a href="https://github.com/PranayBajracharya">
     <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PranayBajracharya&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PranayBajracharya&layout=compact&langs_count=8&theme=radical&hide=jupyter%20notebook"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PranayBajracharya&layout=compact&langs_count=10&theme=radical&hide=jupyter%20notebook"/>
   </a>
 </p>
 
