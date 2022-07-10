@@ -7,37 +7,37 @@
 - ⚡ Fun fact: I like to draw. Check it out: <a href="https://www.instagram.com/its_pranay_arts/" target="_blank">here</a>
 
 ### Languages and Tools
-### Working:
+#### Working:
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" /> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" /> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40" /> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="35" height="35" style="background: white; border-radius: 50%; padding: 4px; margin: 0 2px" /> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="35" height="35" style="background: white; border-radius: 50%; padding: 4px; margin: 0 2px" /> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35" style="background: white; border-radius: 50%; padding: 4px; margin: 0 2px" /> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="35" height="35" style="background: white; border-radius: 50%; padding: 4px; margin: 0 2px" /> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="35" height="35" style="background: white; border-radius: 50%; padding: 4px; margin: 0 2px" /> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="35" height="35" style="background: white; border-radius: 50%; padding: 4px; margin: 0 2px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="35" height="35" style="background: white; border-radius: 50%; padding: 4px; margin: 0 2px" />
 </p>
 
-### Learning:
+#### Learning:
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="40" height="40" /> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="35" height="35" style="background: white; border-radius: 50%; padding: 4px; margin: 0 2px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node" width="35" height="35" style="background: white; border-radius: 50%; padding: 4px; margin: 0 2px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="35" height="35" style="background: white; border-radius: 50%; padding: 4px; margin: 0 2px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="35" height="35" style="background: white; border-radius: 50%; padding: 4px; margin: 0 2px" /> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="35" height="35" style="background: white; border-radius: 50%; padding: 4px; margin: 0 2px" /> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="35" height="35" style="background: white; border-radius: 50%; padding: 4px; margin: 0 2px" /> 
 </p>
 
-### Meh:
+#### Meh:
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40" /> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="40" height="40" />
-  <img src="https://img.icons8.com/color/50/000000/adobe-photoshop.png" alt="PhotoShop" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="35" height="35" style="background: white; border-radius: 50%; padding: 4px; margin: 0 2px" /> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35" style="background: white; border-radius: 50%; padding: 4px; margin: 0 2px" /> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="35" height="35" style="background: white; border-radius: 50%; padding: 4px; margin: 0 2px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="35" height="35" style="background: white; border-radius: 50%; padding: 4px; margin: 0 2px" />
+  <img src="https://img.icons8.com/color/50/000000/adobe-photoshop.png" alt="PhotoShop" width="35" height="35" style="background: white; border-radius: 50%; padding: 4px; margin: 0 2px" />
 </p>
 
-### Connect with Me
+#### Connect with Me
 <p>
   <a href="https://www.linkedin.com/in/pranaybajracharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
   <a href="https://www.instagram.com/its_pranay_arts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
