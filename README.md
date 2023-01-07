@@ -42,8 +42,8 @@
 ### GitHub Analytics
 
 <p>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PranayBajracharya&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PranayBajracharya&layout=compact&langs_count=10&theme=merko&count_private=true&hide=jupyter%20notebook"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PranayBajracharya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PranayBajracharya&layout=compact&langs_count=10&theme=tokyonight&hide=jupyter%20notebook,hack"/>
 </p>
 
 <!-- <p align="center">
