@@ -18,7 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" />
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" /> -->
 </p>
 
 ### Learning:
@@ -28,7 +28,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="40" height="40" /> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="Svelte" width="40" height="40" /> 
+  <img src="https://astro.build/favicon.svg" alt="Astro" width="40" height="40" /> 
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="40" height="40" />  -->
 </p>
 
 ### Connect with Me
