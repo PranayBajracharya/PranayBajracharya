@@ -29,7 +29,7 @@
   <img src="https://astro.build/favicon.svg" alt="Astro" width="40" height="40" /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40" /> 
   <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo.gif" alt="GSAP" width="40" height="40" /> 
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="40" height="40" />  -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40" /> 
 </p>
 
 ### Did In Past:
