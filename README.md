@@ -28,7 +28,7 @@
 <p>
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />  -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="Svelte" width="40" height="40" /> 
-  <img src="https://astro.build/favicon.svg" alt="Astro" width="40" height="40" /> 
+  <img src="https://bestofjs.org/logos/astro.dark.svg" alt="Astro" width="40" height="40" /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40" /> 
   <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo.gif" alt="GSAP" width="40" height="40" /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40" /> 
