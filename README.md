@@ -19,32 +19,27 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40" /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" /> -->
 </p>
 
-### Trying Out:
+### Learning:
 
 <p>
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="Svelte" width="40" height="40" /> 
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="Svelte" width="40" height="40" /> 
   <img src="https://github.com/PranayBajracharya/PranayBajracharya/blob/master/astro.svg" alt="Astro" width="40" height="40" /> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40" /> 
-  <img src="https://supabase.com/dashboard/img/supabase-logo.svg" alt="Supabase" width="40" height="40" /> 
+  <img src="https://supabase.com/dashboard/img/supabase-logo.svg" alt="Supabase" width="40" height="40" />  -->
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40" /> 
   <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo.gif" alt="GSAP" width="40" height="40" /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40" /> 
-</p>
-
-### Did In Past:
-
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40" /> 
 </p>
 
 ### Connect with Me
